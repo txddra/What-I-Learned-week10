@@ -30,9 +30,9 @@ We've covered :
       - `{"firstName":"John", "lastName":"Doe"} `
 - Curly braces hold objects
 - Square brackets hold arrays
-     - ```javascript "employees":[
+     - `` "employees":[
     {"firstName":"John", "lastName":"Doe"},
     {"firstName":"Anna", "lastName":"Smith"},
     {"firstName":"Peter", "lastName":"Jones"}
-]```
+]``
  
