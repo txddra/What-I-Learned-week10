@@ -16,7 +16,36 @@ We've covered :
 - **JSON**
   
 ---
-!
+### [Objects](https://www.w3schools.com/js/js_objects.asp):
+
+- An object has properties (or *variables*) associated with it.
+- The properties of an object define the characteristics of the object.
+  - Accessing Properties on an Object
+
+There are two ways to access properties on an object:
+
+   - Dot Notation
+      -``let obj = {
+  cat: 'meow',
+  dog: 'woof'
+};let sound = obj.cat;console.log(sound);
+// meow
+
+`` 
+
+  - Bracket Notation
+     - ``let obj = {
+  cat: 'meow',
+  dog: 'woof'
+};let sound = obj['cat'];console.log(sound);
+// meow 
+``
+
+
+
+
+
+---
 ### [_JSON_](https://www.w3schools.com/whatis/whatis_json.asp):
 
 **JSON** stands for **J**ava**S**cript **O**bject **N**otation
@@ -36,3 +65,10 @@ We've covered :
     {"firstName":"Peter", "lastName":"Jones"}
 ]``
  
+- and is *apparently* easy to read and understand*
+
+
+
+
+
+ *lol
